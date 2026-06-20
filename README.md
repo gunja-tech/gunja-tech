@@ -29,6 +29,6 @@ Currently exploring:
 
 ## Connect With Me
 
-LinkedIn: [LinkedIn Profile]
+LinkedIn: www.linkedin.com/in/gunja-prasad-494a19294
 
-Email: [Email Address]
+Email: gunjaprasad.2006@gmail.com
