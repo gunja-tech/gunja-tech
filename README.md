@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Gunja 👋
 
-<!--
-**gunja-tech/gunja-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+💡 Passionate about Data Analytics and continuously learning new technologies to solve real-world problems through data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+* SQL
+* Python
+* Power BI
+* Microsoft Excel
+* Data Visualization
+
+## Learning Journey
+
+Currently exploring:
+
+* Advanced SQL Queries
+* Python for Data Analytics
+* Power BI Dashboard Design
+* Business Data Analysis
+
+## Goals
+
+* Build practical data analytics projects
+* Develop strong problem-solving skills
+* Gain industry-ready analytical experience
+
+## Connect With Me
+
+LinkedIn: [LinkedIn Profile]
+
+Email: [Email Address]
